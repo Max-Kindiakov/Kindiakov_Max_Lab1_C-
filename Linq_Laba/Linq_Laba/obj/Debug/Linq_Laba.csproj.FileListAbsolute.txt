@@ -1,0 +1,8 @@
+C:\Users\Админ\source\repos\Linq_Laba\Linq_Laba\bin\Debug\Linq_Laba.exe.config
+C:\Users\Админ\source\repos\Linq_Laba\Linq_Laba\bin\Debug\Linq_Laba.exe
+C:\Users\Админ\source\repos\Linq_Laba\Linq_Laba\bin\Debug\Linq_Laba.pdb
+C:\Users\Админ\source\repos\Linq_Laba\Linq_Laba\obj\Debug\Linq_Laba.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\Linq_Laba\Linq_Laba\obj\Debug\Linq_Laba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\Linq_Laba\Linq_Laba\obj\Debug\Linq_Laba.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Linq_Laba\Linq_Laba\obj\Debug\Linq_Laba.exe
+C:\Users\Админ\source\repos\Linq_Laba\Linq_Laba\obj\Debug\Linq_Laba.pdb
